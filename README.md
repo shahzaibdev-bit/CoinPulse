@@ -1,12 +1,43 @@
-# React + Vite
+# 🚀 CoinPulse
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**CoinPulse** is a modern and responsive cryptocurrency dashboard built using **React**, **Redux Toolkit**, and **RTK Query**. It provides real-time market data, exchange listings, and the latest crypto news using **CoinGecko** and **RapidAPI**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 📊 Live cryptocurrency prices and stats
+- 💱 Exchange listings with trust scores & volume
+- 📰 Latest crypto news headlines
+- ⚡ Built using Redux Toolkit & RTK Query
+- 📱 Fully responsive UI with Ant Design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **Redux Toolkit & RTK Query**
+- **React Router DOM**
+- **Ant Design**
+- **CoinGecko API**
+- **RapidAPI (Crypto News)**
+
+---
+
+## ⚙️ Setup Instructions
+
+ **Clone the Repository**
+```bash
+git clone https://github.com/yourusername/coinpulse.git
+cd coinpulse
+npm install
+npm run dev
+```
+##License
+**MIT License © 2025 Shahzaib Ahmad**
+
+**💬 Contact**
+**📧 Email: shahzaibahmediftikharahmed@gmail.com**
+
+🐙 GitHub: @shahzaibdev-bit
