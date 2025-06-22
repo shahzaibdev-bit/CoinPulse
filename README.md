@@ -30,11 +30,11 @@
  **Clone the Repository**
 ```bash
 git clone https://github.com/yourusername/coinpulse.git
-cd coinpulse
+cd Crypto-App
 npm install
 npm run dev
 ```
-##License
+## License
 **MIT License © 2025 Shahzaib Ahmad**
 
 **💬 Contact**
